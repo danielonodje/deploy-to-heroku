@@ -1,0 +1,25 @@
+{
+  "name": "deploy-to-heroku",
+  "version": "1.0.0",
+  "description": "testing deploy to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-castiq/deploy-to-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sir-castiq/deploy-to-heroku/issues"
+  },
+  "homepage": "https://github.com/sir-castiq/deploy-to-heroku#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node" : "4.1.1"
+  }
+}
